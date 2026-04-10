@@ -36,7 +36,7 @@ In addition, I agree with Marwan's KPI changes because they make the data much m
 
 # What We Learned
 
-## Nassem
+
 
 > "I learned that chart selection is not just about aesthetics, but depends on the nature of the data. While we used a Combo Chart here to highlight monthly volume, the Line Chart remains the superior choice for high-density time-series data, such as stock market prices. In such cases — where there are numerous data points and rapid fluctuations — bars would create visual clutter, whereas a line clearly highlights the overall *pattern* and trend, allowing for quick decision-making."
 
